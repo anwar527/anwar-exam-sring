@@ -1,4 +1,4 @@
-package com.varun.classroomproject;
+package com.anwar.classroomproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

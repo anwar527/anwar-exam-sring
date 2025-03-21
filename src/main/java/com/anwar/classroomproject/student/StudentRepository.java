@@ -1,4 +1,4 @@
-package com.varun.classroomproject.student;
+package com.anwar.classroomproject.student;
 
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Repository;
